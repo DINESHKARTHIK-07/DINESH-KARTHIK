@@ -10,7 +10,7 @@ https://github.com/DINESHKARTHIK-07# DINESH-KARTHIK
   🚀 Passionate about building full-stack applications using <strong>Java, Spring Boot</strong>, and <strong>React</strong> <br>
   🎯 Currently learning <strong>Microservices, Docker, and AWS</strong> <br>
   💼 Intern at <strong>JSpiders, Rajajinagar, Bangalore</strong> <br>
-  📫 Reach me at: <a href="mailto:your.bldineshkarthik07@gmail.com">your.email@example.com</a> <br>
+  📫 Reach me at: <a href="mailto:your.bldineshkarthik07@gmail.com">bldineshkarthik07@gmail.com</a> <br>
 </p>
 
 <hr>
