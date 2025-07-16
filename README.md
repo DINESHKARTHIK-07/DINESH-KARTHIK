@@ -2,11 +2,11 @@ https://github.com/DINESHKARTHIK-07# DINESH-KARTHIK
 <h1 align="center">Hi 👋, I'm Dinesh Karthik B L</h1>
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="DINESHKARTHIK-07" />
 </p>
 
-<p align="center">
+<p >
   🚀 Passionate about building full-stack applications using <strong>Java, Spring Boot</strong>, and <strong>React</strong> <br>
   🎯 Currently learning <strong>Microservices, Docker, and AWS</strong> <br>
   💼 Intern at <strong>JSpiders, Rajajinagar, Bangalore</strong> <br>
